@@ -1,5 +1,3 @@
-![Phantom Logo](https://media.discordapp.net/attachments/952749159117635645/955984268373422130/phantombot.png)
-
 <h1 align="center"> Bot Template  </h1>
 <p align="center">
 <a href="https://github.com/killrebeest/discord.js-v13-template/blob/main/LICENSE"><img alt="GitHub License" src="https://img.shields.io/github/license/killrebeest/discord.js-v13-template?style=for-the-badge"></a>

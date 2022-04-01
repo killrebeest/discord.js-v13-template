@@ -52,4 +52,16 @@
 * Fill in the everything after the "="
 * The database used is mongoose. [Tutorial](https://www.youtube.com/watch?v=nBZYUjyO9hY)
 
+## Installation:
+* npm install @discordjs/builders
+* npm install @discordjs/rest
+* npm install ascii-table
+* npm install axios
+* npm install discord-api-types
+* npm install discord.js
+* npm install dotenv
+* npm install mongoose
+* npm install ms
+* npm install path
+
 ## Star the Repo if you liked it!
